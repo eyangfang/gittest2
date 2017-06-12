@@ -1,0 +1,14 @@
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\bin\Debug\Wpf_git.exe.config
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\bin\Debug\Wpf_git.exe
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\bin\Debug\Wpf_git.pdb
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git.csprojResolveAssemblyReference.cache
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\MainWindow.g.cs
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\App.g.cs
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git_MarkupCompile.cache
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git_MarkupCompile.lref
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\MainWindow.baml
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git.g.resources
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git.Properties.Resources.resources
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git.csproj.GenerateResource.Cache
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git.exe
+c:\users\eyang\documents\visual studio 2017\Projects\Wpf_git\Wpf_git\obj\Debug\Wpf_git.pdb
